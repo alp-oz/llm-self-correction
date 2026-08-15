@@ -1,0 +1,2013 @@
+{
+  "meta": {
+    "prompt": "A bat and a ball cost one dollar and ten cents in total. The bat costs one dollar more than the ball. How much does the ball cost?",
+    "prefill": "**Solution:** Let the ball cost \\( b \\) cents. Then \\( 2b + 100 = 110 \\), so \\( 2b = 10 \\), so \\( b = 10 \\). The ball costs 10 cents.",
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+    "max_new_tokens": 250,
+    "temperature": 0.7,
+    "seed": 1
+  },
+  "steps": [
+    {
+      "t": 0,
+      "token_id": 56177,
+      "token_str": "**\n\n",
+      "entropy": 2.6075830459594727,
+      "speed": 0.0,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 1,
+      "token_id": 14190,
+      "token_str": "Wait",
+      "entropy": 1.0015469789505005,
+      "speed": 140.78057861328125,
+      "is_hedge_onset": true
+    },
+    {
+      "t": 2,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.09075650572776794,
+      "speed": 142.26907348632812,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 3,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 2.35976243019104,
+      "speed": 89.53206634521484,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 4,
+      "token_id": 6291,
+      "token_str": " solution",
+      "entropy": 1.6519278287887573,
+      "speed": 97.51062774658203,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 5,
+      "token_id": 2727,
+      "token_str": " says",
+      "entropy": 1.6373320817947388,
+      "speed": 100.73542022705078,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 6,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 1.2942489385604858,
+      "speed": 85.88863372802734,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 7,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 0.4086393415927887,
+      "speed": 80.22846984863281,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 8,
+      "token_id": 7049,
+      "token_str": " costs",
+      "entropy": 0.26797187328338623,
+      "speed": 89.44158172607422,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 9,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.02407996542751789,
+      "speed": 76.84872436523438,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 10,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.0025099136400967836,
+      "speed": 62.34208679199219,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 11,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.0007628408493474126,
+      "speed": 64.80087280273438,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 12,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 0.0012482086895033717,
+      "speed": 58.21051025390625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 13,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.8505069017410278,
+      "speed": 97.82111358642578,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 14,
+      "token_id": 1988,
+      "token_str": " But",
+      "entropy": 1.1200834512710571,
+      "speed": 136.02357482910156,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 15,
+      "token_id": 432,
+      "token_str": " it",
+      "entropy": 2.051103115081787,
+      "speed": 126.8825912475586,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 16,
+      "token_id": 4977,
+      "token_str": " seems",
+      "entropy": 1.6571824550628662,
+      "speed": 97.99849700927734,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 17,
+      "token_id": 1075,
+      "token_str": " like",
+      "entropy": 1.6555540561676025,
+      "speed": 95.9405746459961,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 18,
+      "token_id": 432,
+      "token_str": " it",
+      "entropy": 1.9523545503616333,
+      "speed": 64.37084197998047,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 19,
+      "token_id": 594,
+      "token_str": "'s",
+      "entropy": 0.18715426325798035,
+      "speed": 97.47106170654297,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 20,
+      "token_id": 26297,
+      "token_str": " comparing",
+      "entropy": 3.134563684463501,
+      "speed": 78.51296997070312,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 21,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.7792710065841675,
+      "speed": 82.2557373046875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 22,
+      "token_id": 2790,
+      "token_str": " total",
+      "entropy": 1.2912381887435913,
+      "speed": 65.00334930419922,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 23,
+      "token_id": 2783,
+      "token_str": " cost",
+      "entropy": 0.46185532212257385,
+      "speed": 73.18866729736328,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 24,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 1.8706496953964233,
+      "speed": 59.31574249267578,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 25,
+      "token_id": 6771,
+      "token_str": " Let",
+      "entropy": 1.366828441619873,
+      "speed": 141.81053161621094,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 26,
+      "token_id": 752,
+      "token_str": " me",
+      "entropy": 0.023816099390387535,
+      "speed": 122.22266387939453,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 27,
+      "token_id": 1744,
+      "token_str": " think",
+      "entropy": 1.43949556350708,
+      "speed": 87.47704315185547,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 28,
+      "token_id": 1549,
+      "token_str": " again",
+      "entropy": 1.450984239578247,
+      "speed": 104.69889068603516,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 29,
+      "token_id": 382,
+      "token_str": ".\n\n",
+      "entropy": 0.7704510688781738,
+      "speed": 43.1137580871582,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 30,
+      "token_id": 14190,
+      "token_str": "Wait",
+      "entropy": 2.012376070022583,
+      "speed": 152.52593994140625,
+      "is_hedge_onset": true
+    },
+    {
+      "t": 31,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.14120720326900482,
+      "speed": 145.99948120117188,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 32,
+      "token_id": 421,
+      "token_str": " if",
+      "entropy": 2.206177234649658,
+      "speed": 83.53955841064453,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 33,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.21179735660552979,
+      "speed": 61.148860931396484,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 34,
+      "token_id": 15743,
+      "token_str": " bat",
+      "entropy": 0.5463511943817139,
+      "speed": 66.05870056152344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 35,
+      "token_id": 374,
+      "token_str": " is",
+      "entropy": 1.0007623434066772,
+      "speed": 90.76727294921875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 36,
+      "token_id": 825,
+      "token_str": " one",
+      "entropy": 0.5970180034637451,
+      "speed": 78.51980590820312,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 37,
+      "token_id": 17692,
+      "token_str": " dollar",
+      "entropy": 8.916029037209228e-05,
+      "speed": 82.79339599609375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 38,
+      "token_id": 803,
+      "token_str": " more",
+      "entropy": 0.025489795953035355,
+      "speed": 83.2515869140625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 39,
+      "token_id": 1091,
+      "token_str": " than",
+      "entropy": 0.12517760694026947,
+      "speed": 70.78353881835938,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 40,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 8.490290201734751e-05,
+      "speed": 74.76778411865234,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 41,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 1.2614730621862691e-05,
+      "speed": 71.33706665039062,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 42,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.07013995200395584,
+      "speed": 119.47937774658203,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 43,
+      "token_id": 429,
+      "token_str": " that",
+      "entropy": 1.10653555393219,
+      "speed": 83.73345184326172,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 44,
+      "token_id": 1035,
+      "token_str": " would",
+      "entropy": 1.684572696685791,
+      "speed": 76.04696655273438,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 45,
+      "token_id": 1281,
+      "token_str": " make",
+      "entropy": 0.9965934753417969,
+      "speed": 75.71231079101562,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 46,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.12315578758716583,
+      "speed": 93.74441528320312,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 47,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 0.3451184034347534,
+      "speed": 72.07025146484375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 48,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 1.196518063545227,
+      "speed": 96.29830932617188,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 49,
+      "token_id": 20,
+      "token_str": "5",
+      "entropy": 0.08792972564697266,
+      "speed": 85.71794891357422,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 50,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 0.12871624529361725,
+      "speed": 83.08451080322266,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 51,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 1.117799162864685,
+      "speed": 109.98360443115234,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 52,
+      "token_id": 323,
+      "token_str": " and",
+      "entropy": 1.5961850881576538,
+      "speed": 87.66954040527344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 53,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.053325243294239044,
+      "speed": 49.18075942993164,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 54,
+      "token_id": 15743,
+      "token_str": " bat",
+      "entropy": 4.3640822696033865e-05,
+      "speed": 58.243499755859375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 55,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.6296878457069397,
+      "speed": 113.69751739501953,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 56,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.17435963451862335,
+      "speed": 85.38548278808594,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 57,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.7509394884109497,
+      "speed": 75.47013854980469,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 58,
+      "token_id": 20,
+      "token_str": "5",
+      "entropy": 1.9642897314042784e-05,
+      "speed": 71.37999725341797,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 59,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 0.012114567682147026,
+      "speed": 62.292938232421875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 60,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.7120886445045471,
+      "speed": 88.7961196899414,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 61,
+      "token_id": 1988,
+      "token_str": " But",
+      "entropy": 1.8309167623519897,
+      "speed": 135.37123107910156,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 62,
+      "token_id": 1221,
+      "token_str": " then",
+      "entropy": 1.4543899297714233,
+      "speed": 129.8031005859375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 63,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 1.4393044710159302,
+      "speed": 33.8980712890625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 64,
+      "token_id": 2790,
+      "token_str": " total",
+      "entropy": 0.017193801701068878,
+      "speed": 78.2186508178711,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 65,
+      "token_id": 1035,
+      "token_str": " would",
+      "entropy": 0.7927107214927673,
+      "speed": 66.92709350585938,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 66,
+      "token_id": 387,
+      "token_str": " be",
+      "entropy": 0.0070043751038610935,
+      "speed": 73.18567657470703,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 67,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.013952115550637245,
+      "speed": 83.89054107666016,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 68,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.0969451293349266,
+      "speed": 81.31889343261719,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 69,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.1339849829673767,
+      "speed": 60.36330032348633,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 70,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.00034822881571017206,
+      "speed": 63.72459411621094,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 71,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.5385231375694275,
+      "speed": 61.339080810546875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 72,
+      "token_id": 88190,
+      "token_str": " Hmm",
+      "entropy": 1.6541446447372437,
+      "speed": 124.2297134399414,
+      "is_hedge_onset": true
+    },
+    {
+      "t": 73,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.49106526374816895,
+      "speed": 117.86857604980469,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 74,
+      "token_id": 7196,
+      "token_str": " maybe",
+      "entropy": 1.9096494913101196,
+      "speed": 83.05561065673828,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 75,
+      "token_id": 429,
+      "token_str": " that",
+      "entropy": 0.9367672204971313,
+      "speed": 60.866424560546875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 76,
+      "token_id": 594,
+      "token_str": "'s",
+      "entropy": 0.04272624850273132,
+      "speed": 72.28124237060547,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 77,
+      "token_id": 1290,
+      "token_str": " right",
+      "entropy": 1.9975248575210571,
+      "speed": 69.75780487060547,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 78,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.9680032730102539,
+      "speed": 78.49905395507812,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 79,
+      "token_id": 2055,
+      "token_str": " So",
+      "entropy": 1.569844126701355,
+      "speed": 127.00383758544922,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 80,
+      "token_id": 3170,
+      "token_str": " why",
+      "entropy": 1.9056706428527832,
+      "speed": 135.08546447753906,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 81,
+      "token_id": 1521,
+      "token_str": " did",
+      "entropy": 1.0904676914215088,
+      "speed": 75.69096374511719,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 82,
+      "token_id": 358,
+      "token_str": " I",
+      "entropy": 0.831203818321228,
+      "speed": 92.97116088867188,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 83,
+      "token_id": 1744,
+      "token_str": " think",
+      "entropy": 0.9839859008789062,
+      "speed": 123.6036148071289,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 84,
+      "token_id": 432,
+      "token_str": " it",
+      "entropy": 1.1402407884597778,
+      "speed": 109.10738372802734,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 85,
+      "token_id": 594,
+      "token_str": "'s",
+      "entropy": 0.3596598505973816,
+      "speed": 75.97342681884766,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 86,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.03865460678935051,
+      "speed": 71.50706481933594,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 87,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.014218764379620552,
+      "speed": 84.05680084228516,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 88,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.0009640504722483456,
+      "speed": 63.90314483642578,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 89,
+      "token_id": 30,
+      "token_str": "?",
+      "entropy": 0.39181581139564514,
+      "speed": 65.06587219238281,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 90,
+      "token_id": 10696,
+      "token_str": " Maybe",
+      "entropy": 0.5150930285453796,
+      "speed": 127.32649993896484,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 91,
+      "token_id": 358,
+      "token_str": " I",
+      "entropy": 0.3195660710334778,
+      "speed": 138.49044799804688,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 92,
+      "token_id": 21815,
+      "token_str": " confused",
+      "entropy": 1.4874370098114014,
+      "speed": 86.84001159667969,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 93,
+      "token_id": 2494,
+      "token_str": " something",
+      "entropy": 1.2431724071502686,
+      "speed": 115.54476165771484,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 94,
+      "token_id": 382,
+      "token_str": ".\n\n",
+      "entropy": 0.9826250672340393,
+      "speed": 81.56574249267578,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 95,
+      "token_id": 14190,
+      "token_str": "Wait",
+      "entropy": 1.0279457569122314,
+      "speed": 158.61131286621094,
+      "is_hedge_onset": true
+    },
+    {
+      "t": 96,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.09114814549684525,
+      "speed": 145.67015075683594,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 97,
+      "token_id": 8365,
+      "token_str": " perhaps",
+      "entropy": 2.1831839084625244,
+      "speed": 80.37559509277344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 98,
+      "token_id": 358,
+      "token_str": " I",
+      "entropy": 1.039652705192566,
+      "speed": 59.0175666809082,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 99,
+      "token_id": 5786,
+      "token_str": " mis",
+      "entropy": 1.629934310913086,
+      "speed": 102.77459716796875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 100,
+      "token_id": 878,
+      "token_str": "read",
+      "entropy": 0.14318467676639557,
+      "speed": 156.89259338378906,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 101,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.07792698591947556,
+      "speed": 160.14114379882812,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 102,
+      "token_id": 3405,
+      "token_str": " question",
+      "entropy": 0.8383396863937378,
+      "speed": 91.8738784790039,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 103,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.21347565948963165,
+      "speed": 98.30621337890625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 104,
+      "token_id": 6771,
+      "token_str": " Let",
+      "entropy": 0.8859108686447144,
+      "speed": 131.25242614746094,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 105,
+      "token_id": 752,
+      "token_str": " me",
+      "entropy": 0.021928220987319946,
+      "speed": 121.07603454589844,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 106,
+      "token_id": 1779,
+      "token_str": " check",
+      "entropy": 1.2369575500488281,
+      "speed": 86.02235412597656,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 107,
+      "token_id": 1549,
+      "token_str": " again",
+      "entropy": 1.028830647468567,
+      "speed": 105.67713928222656,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 108,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 1.0488102436065674,
+      "speed": 40.441497802734375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 109,
+      "token_id": 1084,
+      "token_str": " It",
+      "entropy": 0.9905093908309937,
+      "speed": 137.8687744140625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 110,
+      "token_id": 2727,
+      "token_str": " says",
+      "entropy": 0.04337823763489723,
+      "speed": 134.1648712158203,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 111,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 1.2757699489593506,
+      "speed": 87.26521301269531,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 112,
+      "token_id": 15743,
+      "token_str": " bat",
+      "entropy": 0.12661555409431458,
+      "speed": 75.14693450927734,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 113,
+      "token_id": 323,
+      "token_str": " and",
+      "entropy": 0.003171774325892329,
+      "speed": 90.86153411865234,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 114,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 0.9265075325965881,
+      "speed": 92.67107391357422,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 115,
+      "token_id": 2783,
+      "token_str": " cost",
+      "entropy": 0.07853483408689499,
+      "speed": 89.71347045898438,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 116,
+      "token_id": 825,
+      "token_str": " one",
+      "entropy": 0.05134965479373932,
+      "speed": 88.4622573852539,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 117,
+      "token_id": 17692,
+      "token_str": " dollar",
+      "entropy": 4.687548880610848e-06,
+      "speed": 88.10681915283203,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 118,
+      "token_id": 323,
+      "token_str": " and",
+      "entropy": 0.00028812448726966977,
+      "speed": 92.06905364990234,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 119,
+      "token_id": 5779,
+      "token_str": " ten",
+      "entropy": 7.284707862709183e-06,
+      "speed": 81.71279907226562,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 120,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 1.4664436776001821e-06,
+      "speed": 101.01066589355469,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 121,
+      "token_id": 304,
+      "token_str": " in",
+      "entropy": 0.030090302228927612,
+      "speed": 104.97464752197266,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 122,
+      "token_id": 2790,
+      "token_str": " total",
+      "entropy": 1.2697628903879377e-07,
+      "speed": 87.649169921875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 123,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.09125252813100815,
+      "speed": 111.45590209960938,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 124,
+      "token_id": 576,
+      "token_str": " The",
+      "entropy": 0.7573233842849731,
+      "speed": 134.35467529296875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 125,
+      "token_id": 15743,
+      "token_str": " bat",
+      "entropy": 9.770773613126948e-05,
+      "speed": 145.43641662597656,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 126,
+      "token_id": 7049,
+      "token_str": " costs",
+      "entropy": 0.013166948221623898,
+      "speed": 102.94037628173828,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 127,
+      "token_id": 825,
+      "token_str": " one",
+      "entropy": 1.6290054190903902e-05,
+      "speed": 93.863525390625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 128,
+      "token_id": 17692,
+      "token_str": " dollar",
+      "entropy": 1.1946859558520373e-05,
+      "speed": 83.933837890625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 129,
+      "token_id": 803,
+      "token_str": " more",
+      "entropy": 1.827520100050606e-05,
+      "speed": 99.20861053466797,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 130,
+      "token_id": 1091,
+      "token_str": " than",
+      "entropy": 0.00034441848401911557,
+      "speed": 74.94852447509766,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 131,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 7.400986987704528e-07,
+      "speed": 74.43936157226562,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 132,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 2.5882659429043997e-06,
+      "speed": 66.9195785522461,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 133,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.15333683788776398,
+      "speed": 111.6316146850586,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 134,
+      "token_id": 2055,
+      "token_str": " So",
+      "entropy": 0.6351734399795532,
+      "speed": 119.95137023925781,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 135,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.757953941822052,
+      "speed": 125.1056900024414,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 136,
+      "token_id": 6888,
+      "token_str": " math",
+      "entropy": 2.456651449203491,
+      "speed": 37.651512145996094,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 137,
+      "token_id": 336,
+      "token_str": "em",
+      "entropy": 0.019061600789427757,
+      "speed": 104.3750228881836,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 138,
+      "token_id": 7022,
+      "token_str": "atically",
+      "entropy": 4.179131792625412e-06,
+      "speed": 91.48514556884766,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 139,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.05097181722521782,
+      "speed": 110.32219696044922,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 140,
+      "token_id": 421,
+      "token_str": " if",
+      "entropy": 1.462739109992981,
+      "speed": 88.49370574951172,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 141,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.6606688499450684,
+      "speed": 52.21458053588867,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 142,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 0.02050265111029148,
+      "speed": 66.40084838867188,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 143,
+      "token_id": 374,
+      "token_str": " is",
+      "entropy": 0.03314492478966713,
+      "speed": 90.68008422851562,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 144,
+      "token_id": 17767,
+      "token_str": " \\(",
+      "entropy": 0.04794194921851158,
+      "speed": 80.86053466796875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 145,
+      "token_id": 293,
+      "token_str": " b",
+      "entropy": 0.5060656666755676,
+      "speed": 66.78994750976562,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 146,
+      "token_id": 1124,
+      "token_str": " \\",
+      "entropy": 4.9194884923053905e-05,
+      "speed": 75.9244155883789,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 147,
+      "token_id": 8,
+      "token_str": ")",
+      "entropy": 0.5710874795913696,
+      "speed": 70.04231262207031,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 148,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 0.06954759359359741,
+      "speed": 83.38301086425781,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 149,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.008893526159226894,
+      "speed": 80.43537139892578,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 150,
+      "token_id": 1221,
+      "token_str": " then",
+      "entropy": 0.7338731288909912,
+      "speed": 91.80064392089844,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 151,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.06379241496324539,
+      "speed": 29.063613891601562,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 152,
+      "token_id": 15743,
+      "token_str": " bat",
+      "entropy": 7.230397750390694e-05,
+      "speed": 56.97591781616211,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 153,
+      "token_id": 374,
+      "token_str": " is",
+      "entropy": 0.0028063124045729637,
+      "speed": 106.16276550292969,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 154,
+      "token_id": 17767,
+      "token_str": " \\(",
+      "entropy": 5.1838127546943724e-05,
+      "speed": 67.40303802490234,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 155,
+      "token_id": 293,
+      "token_str": " b",
+      "entropy": 0.009389138780534267,
+      "speed": 61.15324401855469,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 156,
+      "token_id": 488,
+      "token_str": " +",
+      "entropy": 3.165075759170577e-05,
+      "speed": 71.37622833251953,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 157,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 7.53803615225479e-05,
+      "speed": 72.43500518798828,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 158,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.00011855711636599153,
+      "speed": 71.31830596923828,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 159,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.002168447244912386,
+      "speed": 73.36499786376953,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 160,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.0005918784881941974,
+      "speed": 39.653724670410156,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 161,
+      "token_id": 1124,
+      "token_str": " \\",
+      "entropy": 1.3134489563526586e-05,
+      "speed": 46.36309051513672,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 162,
+      "token_id": 8,
+      "token_str": ")",
+      "entropy": 0.012991017661988735,
+      "speed": 68.86661529541016,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 163,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 0.0005529599147848785,
+      "speed": 88.4813003540039,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 164,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.4697360098361969,
+      "speed": 83.67887878417969,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 165,
+      "token_id": 2055,
+      "token_str": " So",
+      "entropy": 1.3889093399047852,
+      "speed": 130.33314514160156,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 166,
+      "token_id": 2790,
+      "token_str": " total",
+      "entropy": 1.1651972532272339,
+      "speed": 126.77630615234375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 167,
+      "token_id": 374,
+      "token_str": " is",
+      "entropy": 0.7237434387207031,
+      "speed": 72.83457946777344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 168,
+      "token_id": 17767,
+      "token_str": " \\(",
+      "entropy": 0.003835627343505621,
+      "speed": 66.69139099121094,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 169,
+      "token_id": 293,
+      "token_str": " b",
+      "entropy": 0.11231423914432526,
+      "speed": 66.38785552978516,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 170,
+      "token_id": 488,
+      "token_str": " +",
+      "entropy": 2.7817759473691694e-07,
+      "speed": 66.04164123535156,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 171,
+      "token_id": 320,
+      "token_str": " (",
+      "entropy": 0.2532656490802765,
+      "speed": 71.78350830078125,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 172,
+      "token_id": 65,
+      "token_str": "b",
+      "entropy": 2.9624719900311902e-05,
+      "speed": 104.16259002685547,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 173,
+      "token_id": 488,
+      "token_str": " +",
+      "entropy": 0.0008411392918787897,
+      "speed": 87.24417877197266,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 174,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.002337622456252575,
+      "speed": 58.84492874145508,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 175,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 2.7513547138369177e-06,
+      "speed": 58.707550048828125,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 176,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 1.3402984677668428e-06,
+      "speed": 64.22408294677734,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 177,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 1.4519350770569872e-06,
+      "speed": 35.44776916503906,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 178,
+      "token_id": 8,
+      "token_str": ")",
+      "entropy": 0.0024125149939209223,
+      "speed": 52.46199417114258,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 179,
+      "token_id": 284,
+      "token_str": " =",
+      "entropy": 0.0026398079935461283,
+      "speed": 58.045711517333984,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 180,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.0003341670671943575,
+      "speed": 70.17442321777344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 181,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.45373842120170593,
+      "speed": 57.913455963134766,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 182,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 0.009168739430606365,
+      "speed": 56.06684494018555,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 183,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 4.371422051008267e-07,
+      "speed": 57.330753326416016,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 184,
+      "token_id": 1124,
+      "token_str": " \\",
+      "entropy": 0.0001362482871627435,
+      "speed": 59.28730392456055,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 185,
+      "token_id": 568,
+      "token_str": ").",
+      "entropy": 0.37199604511260986,
+      "speed": 68.29242706298828,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 186,
+      "token_id": 2055,
+      "token_str": " So",
+      "entropy": 0.6960366368293762,
+      "speed": 117.21453094482422,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 187,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 1.0582293272018433,
+      "speed": 126.8941421508789,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 188,
+      "token_id": 17767,
+      "token_str": " \\(",
+      "entropy": 0.23525261878967285,
+      "speed": 35.66741943359375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 189,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.0006084505002945662,
+      "speed": 78.7605209350586,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 190,
+      "token_id": 17,
+      "token_str": "2",
+      "entropy": 8.597887244832236e-06,
+      "speed": 44.511993408203125,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 191,
+      "token_id": 65,
+      "token_str": "b",
+      "entropy": 1.8472379679224105e-06,
+      "speed": 72.9572525024414,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 192,
+      "token_id": 488,
+      "token_str": " +",
+      "entropy": 0.047497741878032684,
+      "speed": 63.79640579223633,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 193,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.0024802004918456078,
+      "speed": 58.538795471191406,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 194,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 3.636794474459748e-07,
+      "speed": 56.6303825378418,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 195,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 7.710080041078982e-08,
+      "speed": 63.21407699584961,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 196,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 2.1331934476620518e-06,
+      "speed": 41.681190490722656,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 197,
+      "token_id": 284,
+      "token_str": " =",
+      "entropy": 5.962881550658494e-05,
+      "speed": 50.440032958984375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 198,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.00038355414289981127,
+      "speed": 62.6886100769043,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 199,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 1.273873522222857e-06,
+      "speed": 59.72821807861328,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 200,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 8.756701390666422e-06,
+      "speed": 47.84389877319336,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 201,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 9.484840290951979e-08,
+      "speed": 51.95346450805664,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 202,
+      "token_id": 1124,
+      "token_str": " \\",
+      "entropy": 7.3467985203024e-05,
+      "speed": 61.202449798583984,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 203,
+      "token_id": 701,
+      "token_str": "),",
+      "entropy": 0.6521072387695312,
+      "speed": 69.3458480834961,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 204,
+      "token_id": 32256,
+      "token_str": " subtract",
+      "entropy": 0.95185786485672,
+      "speed": 111.57850646972656,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 205,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.07582055032253265,
+      "speed": 70.74488830566406,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 206,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 3.7115835311851697e-06,
+      "speed": 80.02006530761719,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 207,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 0.0001718512357911095,
+      "speed": 62.10768127441406,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 208,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 1.1139986781927291e-05,
+      "speed": 52.18208312988281,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 209,
+      "token_id": 25,
+      "token_str": ":",
+      "entropy": 0.8684210777282715,
+      "speed": 62.0273551940918,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 210,
+      "token_id": 17767,
+      "token_str": " \\(",
+      "entropy": 0.05186348035931587,
+      "speed": 71.07835388183594,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 211,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.0013164626434445381,
+      "speed": 57.74507141113281,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 212,
+      "token_id": 17,
+      "token_str": "2",
+      "entropy": 7.736961151749711e-07,
+      "speed": 52.35104751586914,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 213,
+      "token_id": 65,
+      "token_str": "b",
+      "entropy": 1.7524678241898073e-06,
+      "speed": 68.14186096191406,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 214,
+      "token_id": 284,
+      "token_str": " =",
+      "entropy": 0.015299790538847446,
+      "speed": 60.561988830566406,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 215,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.018245188519358635,
+      "speed": 63.15688705444336,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 216,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 1.473236352467211e-06,
+      "speed": 56.964561462402344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 217,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 1.9345439739026915e-07,
+      "speed": 69.91214752197266,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 218,
+      "token_id": 1124,
+      "token_str": " \\",
+      "entropy": 1.947740383911878e-05,
+      "speed": 53.19364929199219,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 219,
+      "token_id": 701,
+      "token_str": "),",
+      "entropy": 0.015858586877584457,
+      "speed": 74.80331420898438,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 220,
+      "token_id": 773,
+      "token_str": " so",
+      "entropy": 0.18761472404003143,
+      "speed": 112.25929260253906,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 221,
+      "token_id": 17767,
+      "token_str": " \\(",
+      "entropy": 0.0007271514623425901,
+      "speed": 45.81528854370117,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 222,
+      "token_id": 293,
+      "token_str": " b",
+      "entropy": 4.83343428641092e-05,
+      "speed": 65.70447540283203,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 223,
+      "token_id": 284,
+      "token_str": " =",
+      "entropy": 0.023434720933437347,
+      "speed": 67.8440933227539,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 224,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.005151574965566397,
+      "speed": 65.04093170166016,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 225,
+      "token_id": 20,
+      "token_str": "5",
+      "entropy": 0.0005298066535033286,
+      "speed": 46.94291305541992,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 226,
+      "token_id": 1124,
+      "token_str": " \\",
+      "entropy": 2.1714204194722697e-05,
+      "speed": 72.16316986083984,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 227,
+      "token_id": 568,
+      "token_str": ").",
+      "entropy": 0.10379235446453094,
+      "speed": 63.747013092041016,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 228,
+      "token_id": 2055,
+      "token_str": " So",
+      "entropy": 0.7795925736427307,
+      "speed": 117.66327667236328,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 229,
+      "token_id": 3520,
+      "token_str": " actually",
+      "entropy": 0.785986065864563,
+      "speed": 136.9348602294922,
+      "is_hedge_onset": true
+    },
+    {
+      "t": 230,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 0.05752429738640785,
+      "speed": 42.93488311767578,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 231,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 0.07866866886615753,
+      "speed": 52.47734451293945,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 232,
+      "token_id": 4935,
+      "token_str": " ball",
+      "entropy": 0.01646111160516739,
+      "speed": 72.9107894897461,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 233,
+      "token_id": 374,
+      "token_str": " is",
+      "entropy": 0.35481610894203186,
+      "speed": 95.37709045410156,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 234,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.02533016912639141,
+      "speed": 77.99050903320312,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 235,
+      "token_id": 20,
+      "token_str": "5",
+      "entropy": 4.976241325493902e-05,
+      "speed": 75.37459564208984,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 236,
+      "token_id": 30191,
+      "token_str": " cents",
+      "entropy": 0.00038773700362071395,
+      "speed": 83.98385620117188,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 237,
+      "token_id": 11,
+      "token_str": ",",
+      "entropy": 1.0365347862243652,
+      "speed": 96.96551513671875,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 238,
+      "token_id": 537,
+      "token_str": " not",
+      "entropy": 1.2774204015731812,
+      "speed": 99.21859741210938,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 239,
+      "token_id": 220,
+      "token_str": " ",
+      "entropy": 0.0005125198513269424,
+      "speed": 87.6751708984375,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 240,
+      "token_id": 16,
+      "token_str": "1",
+      "entropy": 5.2673491154564545e-05,
+      "speed": 72.53819274902344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 241,
+      "token_id": 15,
+      "token_str": "0",
+      "entropy": 7.720205758232623e-06,
+      "speed": 65.63275909423828,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 242,
+      "token_id": 13,
+      "token_str": ".",
+      "entropy": 0.41060671210289,
+      "speed": 68.40203094482422,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 243,
+      "token_id": 10696,
+      "token_str": " Maybe",
+      "entropy": 1.383009672164917,
+      "speed": 128.00123596191406,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 244,
+      "token_id": 358,
+      "token_str": " I",
+      "entropy": 0.788891077041626,
+      "speed": 128.68821716308594,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 245,
+      "token_id": 1521,
+      "token_str": " did",
+      "entropy": 1.7966835498809814,
+      "speed": 97.601806640625,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 246,
+      "token_id": 279,
+      "token_str": " the",
+      "entropy": 1.5441406965255737,
+      "speed": 91.54454040527344,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 247,
+      "token_id": 6888,
+      "token_str": " math",
+      "entropy": 2.313005208969116,
+      "speed": 71.27772521972656,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 248,
+      "token_id": 4969,
+      "token_str": " wrong",
+      "entropy": 0.021190373227000237,
+      "speed": 79.78691864013672,
+      "is_hedge_onset": false
+    },
+    {
+      "t": 249,
+      "token_id": 6788,
+      "token_str": " earlier",
+      "entropy": 0.8419593572616577,
+      "speed": 55.31549835205078,
+      "is_hedge_onset": false
+    }
+  ],
+  "full_text": "**\n\nWait, the solution says the ball costs 10 cents. But it seems like it's comparing the total cost. Let me think again.\n\nWait, if the bat is one dollar more than the ball, that would make the ball 5 cents, and the bat 105 cents. But then the total would be 110. Hmm, maybe that's right. So why did I think it's 10? Maybe I confused something.\n\nWait, perhaps I misread the question. Let me check again. It says the bat and ball cost one dollar and ten cents in total. The bat costs one dollar more than the ball. So, mathematically, if the ball is \\( b \\) cents, then the bat is \\( b + 100 \\) cents. So total is \\( b + (b + 100) = 110 \\). So, \\( 2b + 100 = 110 \\), subtract 100: \\( 2b = 10 \\), so \\( b = 5 \\). So actually, the ball is 5 cents, not 10. Maybe I did the math wrong earlier"
+}
