@@ -1,4 +1,4 @@
-# Doubt
+# LLM Self-Correction
 
 **Does visible LLM self-correction reflect real internal computation, or is it stylistic theater?**
 
